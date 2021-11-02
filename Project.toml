@@ -1,0 +1,13 @@
+name = "UnzipUser"
+uuid = "defbe715-714d-4c70-b535-50bc4415e312"
+authors = ["Lilith Orion Hafner <60898866+LilithHafner@users.noreply.github.com> and contributors"]
+version = "0.0.0"
+
+[compat]
+julia = "1.6"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
